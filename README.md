@@ -1,7 +1,7 @@
 # neko-bot
 A bot made for use on Discord to recommend a random manga on command
 
-This bot specifically is made for use on my personal discord server to randomly recommend BL manga/manhwa to readers
+This bot specifically is made for use on my personal discord server to randomly recommend manga/manhwa to readers
 but can otherwise be used in any other sort of "randomized recommendation" fashion.
 
 Files not included:
